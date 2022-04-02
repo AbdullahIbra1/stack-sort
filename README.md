@@ -1,4 +1,4 @@
-#HW for Data structure - CS214 ; supervisor Dr mohammed mahdy
+# HW for Data structure - CS214 ; supervisor Dr mohammed mahdy
 # stack-sort
 Sort a Stack in ascending or descending order
 
