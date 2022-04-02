@@ -7,6 +7,6 @@ user entered : 87 39 21 99 58 1 43<br />
 the output should be eather ascending or descending 
 
 
-* by using two stacks(original and teporary) we take tempory value from the original stack and compare it with the top element of the temporary stack*
+* by using two stacks(original and temporary) we take tempory value from the original stack and compare it with the top element of the temporary stack*
 
 
