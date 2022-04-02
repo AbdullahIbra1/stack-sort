@@ -8,5 +8,4 @@ the output should be eather ascending or descending
 
 
 * by using two stacks(original and temporary) we take tempory value from the original stack and compare it with the top element of the temporary stack*
-
-
+* after the comparison, the temporary stack holds the ordered values in reverse way so by copying the values into the original stack we end up with the result we wanted *
